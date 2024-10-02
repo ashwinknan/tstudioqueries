@@ -10,9 +10,6 @@ Other guidelines
 - Use real-world examples: Base queries on actual user interactions if available
 - Include negative examples: Queries that should not return results or should return specific warnings
 
-Format: Query ID, Category, Query Text, Expected Answer, Difficulty,Keywords/Tags
-
-
 Need 50 Code Generation Queries:
 - Function definitions (12 queries)
 - Class implementations (12 queries)
