@@ -103,11 +103,11 @@ TerraDictionary scoreZones = new TerraDictionary(); // Correct way of using Terr
 # Question 6
 I am getting the following error in my script:
 
-``
+```
 NullReferenceException: Object reference not set to an instance of an object.
 Terra.Studio.TerraSharp.CodingRuntime.AttachScript (System.String scriptName, UnityEngine.GameObject refObj) (at <00000000000000000000000000000000>:0)
 Terra.Studio.RuntimeStudioMachine.Start () (at <00000000000000000000000000000000>:0)
-``
+```
 
 What is wrong with my script? 
 

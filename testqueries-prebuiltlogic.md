@@ -1,3 +1,6 @@
+# Overview
+This document contains questions where you need to achieve a game interaction without the use of code - only using pre-built logic templates or editor components. 
+
 ## Query ID - PB0001
 
 ### Category

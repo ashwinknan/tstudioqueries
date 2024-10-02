@@ -1,5 +1,4 @@
-Format 
-# Query ID - UQ0001
+ # Query ID - UQ0001
 
 ## Category
 
@@ -7,6 +6,24 @@ Format
 How can we access gyro in Terra Studio? When we used input.acceleration, we saw an error being thrown up. 
 
 ## Expected Answer
+
+## Difficulty
+
+## Keywords/Tags
+#controller #gyro #input #gyroscope
+
+
+# Query ID - UQ0002
+
+## Category
+
+## Query Text
+We have changed the collider to capsule but still the zombie hovering isn’t resolved. Also, we feel that this may have something to do with the zombie shadows-
+If you notice there seems to be gap between the zombie model and their shadows giving an effect of them floating.
+However, this is only happening in Play mode - as in editor the zombie shadows appear fine exactly below the model. Shadow appears fine for the player model too.
+
+## Expected Answer
+They need to set the baseoffset to 0
 
 ## Difficulty
 

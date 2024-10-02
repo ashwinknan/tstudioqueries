@@ -23,10 +23,10 @@ Other guidelines
 - Include negative examples: Queries that should not return results or should return specific warnings
 
 Format 
-# Query ID
-## Category
-## Query Text
-## Expected Answer
-## Difficulty
-## Keywords/Tags
+## Query ID
+### Category
+### Query Text
+### Expected Answer
+### Difficulty
+### Keywords/Tags
 
